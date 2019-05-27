@@ -1,0 +1,4 @@
+﻿  dunk00.cpp
+c:\users\hp301\documents\visual studio 2015\projects\dunk00\dunk00\dunk00.cpp(145): warning C4101: “i”: 未引用的局部变量
+  dunk00.vcxproj -> c:\users\hp301\documents\visual studio 2015\Projects\dunk00\Debug\dunk00.exe
+  dunk00.vcxproj -> c:\users\hp301\documents\visual studio 2015\Projects\dunk00\Debug\dunk00.pdb (Full PDB)
